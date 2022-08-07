@@ -1,7 +1,7 @@
 ## Welcome to my page 👋
 
 <p> I'm Raghav Kapoor and I am currently studying at Carnegie Mellon University, School of Computer Science (Language Technologies Institute) as a masters student focussing on intelligent information systems. </p>
-<p> I'm from New Delhi, India  </p>
+<p> I'm orignially from New Delhi, India and currently based out of Pittsburgh, Pennsylvania. </p>
 <ul>
   <li> 🔭 I've previously worked as a software associate at Goldman Sachs, India and also as a research intern at MIDAS Lab, IIIT Delhi.</li> 
   <li> 🌱 I'm diving deep in the ML/NLP space with a special focus on integrating it to large scaled systems. </li>
