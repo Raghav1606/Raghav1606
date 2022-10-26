@@ -30,7 +30,3 @@ Here are some ideas to get you started:
   
 - Cuando quiera agregar Twiter: <a href="" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
 -->
-
-
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=Raghav1606&layout=compact&count_private=true&show_icons=true&hide_border=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" height="200"> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raghav1606&layout=compact&theme=radical&hide_border=true&hide=Jupyter%20Notebook&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" height="200"> |
-|---------|-------|
